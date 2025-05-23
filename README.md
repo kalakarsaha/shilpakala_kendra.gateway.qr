@@ -1,0 +1,1 @@
+# shilpakala_kendra.gateway.qr
